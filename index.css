@@ -1,0 +1,22 @@
+body {
+    position: relative;
+}
+
+
+#section1, #section2, #section3 {
+    padding: 250px 20px;
+}
+
+h1 {
+    font-size: 60px;
+    padding-bottom: 20px;
+}
+
+#section1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+#section2 {
+    font-size: 18px;
+}
